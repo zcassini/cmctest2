@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>A Site for CMC</title>
   <subtitle>wicked cool</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/cmctest2/atom.xml" rel="self"/>
   
   <link href="https://zcassini.github.io/cmctest2/"/>
   <updated>2016-08-25T19:22:38.236Z</updated>

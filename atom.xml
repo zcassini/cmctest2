@@ -4,9 +4,9 @@
   <subtitle>wicked cool</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://zcassini.github.io/cmctest2/"/>
   <updated>2016-08-25T19:22:38.236Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://zcassini.github.io/cmctest2/</id>
   
   <author>
     <name>Zac Cassini</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/08/25/hello-world/"/>
-    <id>http://yoursite.com/2016/08/25/hello-world/</id>
+    <link href="https://zcassini.github.io/cmctest2/2016/08/25/hello-world/"/>
+    <id>https://zcassini.github.io/cmctest2/2016/08/25/hello-world/</id>
     <published>2016-08-25T19:22:38.236Z</published>
     <updated>2016-08-25T19:22:38.236Z</updated>
     
